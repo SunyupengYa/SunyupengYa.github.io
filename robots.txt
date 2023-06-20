@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunyupengya.github.io/sitemap.xml
